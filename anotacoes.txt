@@ -1,0 +1,5 @@
+== MERGE == 
+mostra no console uma lista de programas possíveis de ser utilizados
+git mergetool --tool-help
+
+git mergetool -t nome_do_programa
